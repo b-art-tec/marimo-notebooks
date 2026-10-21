@@ -1,1 +1,1 @@
-.github/scripts/build.py --template templates/bare.html.j2
+uv run .github/scripts/build.py --template templates/tailwind.html.j2
